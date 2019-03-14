@@ -1,0 +1,25 @@
+---
+layout: default
+permalink: /projects/
+title: Emile Legendre - Projects
+---
+<div class="container bg-light" id="contentProjects">
+    <div class="row">
+        <!-- Loop through projects -->
+        {% for item in site.data.project_list.projects %}
+        <div class="col-md-6 col-lg-4 col-xl-3 mb-4">
+            <div class="card h-100">
+                <img src="{{ item.image | relative_url }}" href="{{ item.url }}" class="card-img-top">
+                <div class="card-body text-center">
+                    <h5 class="card-title"><a href="{{ item.url }}">{{ item.title }}</a></h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ item.subtitle }}</h6>
+                    <p class="card-text">{{ item.text }}</p>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="{{ item.url }}" class="btn btn-primary">See on GitHub <i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

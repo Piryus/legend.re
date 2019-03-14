@@ -1,0 +1,31 @@
+projects:
+
+- title: Teeko
+  subtitle: C++ (SFML)
+  text: Strategy game with an A.I.
+  url: https://github.com/Piryus/Teeko
+  image: /images/projects/teeko.jpg
+
+- title: ObjectFinder for WoW
+  subtitle: Java (JavaFX)
+  text: Parses WoW files to find an object's coordinates
+  url: https://github.com/Piryus/ObjectFinder
+  image: /images/projects/objectfinder.png
+  
+- title: Vivarium
+  subtitle: Java (Swing)
+  text: Small sandbox game with emoji animals
+  url: https://github.com/Piryus/Vivarium
+  image: /images/projects/vivarium.png
+  
+- title: legend.re
+  subtitle: HTML5, CSS3
+  text: This website, powered by Jekyll and Bootstrap 4
+  url: https://github.com/Piryus/legend.re
+  image: /images/projects/legend.re.png
+  
+- title: Chess Royal
+  subtitle: C (SDL2)
+  text: A chess game with 16 pawns
+  url: https://github.com/Piryus/Chess-Royal
+  image: /images/projects/chess.png

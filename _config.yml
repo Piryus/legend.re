@@ -1,0 +1,12 @@
+title: Emile Legendre
+email: emile@legend.re
+description: Emile Legendre is a computer science student at the University of Technology of Belfort-Montbéliard (France). This website is mainly focused on his projects.
+keywords: emile legendre, emile, legendre, computer, science, étudiant, ingénieur, informatique, java, utbm, sciences, c++, engineer, student, computer
+baseurl: "" 
+url: "https://legend.re"
+github_username:  piryus
+markdown: kramdown
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - README.md
