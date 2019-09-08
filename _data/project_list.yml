@@ -1,5 +1,11 @@
 projects:
 
+- title: MallEscape
+  subtitle: Java (and SARL)
+  text: A mall simulation with autonomous AI
+  url: https://github.com/Piryus/MallEscape-AI
+  image: /images/projects/mallescape.jpg
+
 - title: Teeko
   subtitle: C++ (SFML)
   text: Strategy game with an A.I.
