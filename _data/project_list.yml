@@ -1,5 +1,11 @@
 projects:
 
+- title: ChewToyCreator
+  subtitle: C++ (Qt, OpenGL)
+  text: Create your own chew toy - fully customizable !
+  url: https://github.com/Piryus/ChewToyCreator
+  image: /images/projects/chewtoycreator.png
+
 - title: MallEscape
   subtitle: Java (and SARL)
   text: A mall simulation with autonomous AI
