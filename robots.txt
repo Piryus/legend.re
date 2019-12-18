@@ -1,0 +1,3 @@
+Sitemap: https://www.legend.re/sitemap.xml
+User-agent: *
+Disallow:
